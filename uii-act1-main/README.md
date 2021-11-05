@@ -1,3 +1,1 @@
-# uii_actividad1
-Plantilla básica en PHP
-#Ojo tus archivos cambiaron de extencion .html a .php
+César René Rivas Andrade 5-I proyecto final
